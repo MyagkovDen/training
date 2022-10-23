@@ -29,3 +29,5 @@ john is hiding far from me
 
 <<<<<<< HEAD
 kant
+
+the lord of the rings
