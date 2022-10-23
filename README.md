@@ -27,4 +27,5 @@ abcdrfg
 
 john is hiding far from me
 
+<<<<<<< HEAD
 kant
